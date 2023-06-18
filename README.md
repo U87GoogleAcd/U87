@@ -1,5 +1,6 @@
 # U87
-# Product Backlog URL: eklenecek
+# Product Backlog URL: 
+https://miro.com/app/board/uXjVM9tlR7o=/
 # Takım ismi - belirlenmedi
 # Takım üyeleri:
 -Rukiye Tura: Scrum Master / Product Manager / Developer
