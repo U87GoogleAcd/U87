@@ -3,8 +3,8 @@
 https://miro.com/app/board/uXjVM9tlR7o=/
 # Takım ismi - belirlenmedi
 # Takım üyeleri:
--Rukiye Tura: Scrum Master / Product Manager / Developer
-/n -Nur Arslan: Developer
+-Rukiye Tura: Scrum Master / Product Manager / Developer  
+-Nur Arslan: Developer
 # Ürün ismi: Escape: Tower of Puzzle
 # Ürün açıklaması:
 X katlı bir kulenin en tepesinde uyanan oyuncu, bulunduğu kattaki ipuçlarını kullanarak en aşağıya inip kaçmaya çalışır. 
