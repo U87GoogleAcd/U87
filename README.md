@@ -16,5 +16,5 @@ Bulamaca çözmeye ilgisi olan 13-50 yaş arasındaki oyuncular.
 # Sprint 1:
 ![image](https://github.com/U87GoogleAcd/U87/assets/136267242/06e6650c-4bb3-4a78-a7c0-bd141df82e70)
 
-Sprint 1 review: Oyunun temel hatları belirlendi.
+Sprint 1 review: Oyunun temel hatları belirlendi.  
 Sprint 1 retrospective: Takım üyeleri henüz aktif olamadı, ikinci sprintte daily scrumlara daha fazla önem gösterilecek.
