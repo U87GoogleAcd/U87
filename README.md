@@ -7,7 +7,7 @@ https://miro.com/app/board/uXjVM9tlR7o=/
 -Nur Arslan: Product Manager / Developer
 # Ürün ismi: Chess
 # Ürün açıklaması:
-geleneksel satranç oyununu Unity platformunda modern bir şekilde yeniden tasarladık. Bu oyunla, satrancın heyecan verici dünyasına adım atarak zekanızı ve strateji yeteneklerinizi test edebilirsiniz. Kendi stratejilerinizi geliştirin, rakiplerinizi yenmek için düşünerek hamleler yapın ve şampiyonluk yolunda ilerleyin.
+Geleneksel satranç oyununu Unity platformunda modern bir şekilde yeniden tasarladık. Bu oyunla, satrancın heyecan verici dünyasına adım atarak zekanızı ve strateji yeteneklerinizi test edebilirsiniz. Kendi stratejilerinizi geliştirin, rakiplerinizi yenmek için düşünerek hamleler yapın ve şampiyonluk yolunda ilerleyin.
 # Ürün özellikleri: 
 2D olarak tasarlanan oyunda klasik satranç oyunu deneyimini yaşayabilirsiniz.
 # Hedef kitle:
