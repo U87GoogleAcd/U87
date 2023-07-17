@@ -5,13 +5,13 @@ https://miro.com/app/board/uXjVM9tlR7o=/
 # Takım üyeleri:
 -Rukiye Tura: Scrum Master / Developer  
 -Nur Arslan: Product Manager / Developer
-# Ürün ismi: Escape: Tower of Puzzle
+# Ürün ismi: Chess
 # Ürün açıklaması:
-X katlı bir kulenin en tepesinde uyanan oyuncu, bulunduğu kattaki ipuçlarını kullanarak en aşağıya inip kaçmaya çalışır. 
+geleneksel satranç oyununu Unity platformunda modern bir şekilde yeniden tasarladık. Bu oyunla, satrancın heyecan verici dünyasına adım atarak zekanızı ve strateji yeteneklerinizi test edebilirsiniz. Kendi stratejilerinizi geliştirin, rakiplerinizi yenmek için düşünerek hamleler yapın ve şampiyonluk yolunda ilerleyin.
 # Ürün özellikleri: 
-2D olarak tasarlanan oyunda katların arasındaki kapıyı açan anahtarı bulabilmek için bulmacalar çözülür.
+2D olarak tasarlanan oyunda klasik satranç oyunu deneyimini yaşayabilirsiniz.
 # Hedef kitle:
-Bulamaca çözmeye ilgisi olan 13-50 yaş arasındaki oyuncular.
+Bulamaca çözmeye ilgisi olan 5-50 yaş arasındaki oyuncular.
 
 # Sprint 1:
 ![image](https://github.com/U87GoogleAcd/U87/assets/136267242/06e6650c-4bb3-4a78-a7c0-bd141df82e70)
