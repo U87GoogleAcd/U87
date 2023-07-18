@@ -13,6 +13,9 @@ Geleneksel satranç oyununu Unity platformunda modern bir şekilde yeniden tasar
 # Hedef kitle:
 Zeka oyularına ilgisi olan 7'den 70'e oyuncular.
 
+https://drive.google.com/drive/folders/1KZqXisnAUWVwuWIa2AAI4qI4vc0ANbYT?usp=sharing
+Dosya büyüklüğü sebebiyle oyunu GitHub'a yükleyemedik. Drive linkinden ulaşabilirsiniz.
+
 # Sprint 1:
 ![image](https://github.com/U87GoogleAcd/U87/assets/136267242/06e6650c-4bb3-4a78-a7c0-bd141df82e70)
 
